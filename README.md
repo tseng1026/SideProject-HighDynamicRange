@@ -4,7 +4,7 @@
 - **Platform:** Unix (Macbook)
 - **Language:** Python3
 - **Usage:** ``python HighDynamicRange.py <num of img> <dir of img>``
-- **Requirements:**<vspace=-8pt>
+- **Requirements:**
 	- python3.6
 	- opencv 4.1		``pip install opencv-python``
 	- matplotlib 3.1	``pip install matplotlib``
