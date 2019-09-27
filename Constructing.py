@@ -27,7 +27,6 @@ def ResponseCurve(num, img, exp):
 
 		cnt = 0
 
-		# if c == 0: print (z)
 		# arrange the information for 1st part of the formula (data-fitting)
 		for i in range(imgNum):
 			for p in range(pixNum):
